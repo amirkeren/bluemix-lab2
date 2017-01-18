@@ -30,7 +30,7 @@ function main(params) {
 
 5. Finally, click on the "This Looks Good" button and "Save Rule" (you can change the rule name if you like)
 
-#Testing the trigger
+#Testing the result
 
 1. Go to the [monitor screen](https://console.ng.bluemix.net/openwhisk/dashboard) and note the Activity Log on the right
 
