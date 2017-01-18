@@ -3,7 +3,7 @@
 #Preparation
 
 1. Go to your [dashboard](https://console.ng.bluemix.net/dashboard/services) and click on the Cloudant NoSQL DB you created in the [previous lab](https://github.com/amirkeren/bluemix-lab1)
-2. Click on "Service Credentials" then on "New Credential" and finally click "Add" (this will allow OpenWhisk to connect to that DB instance)
+2. Click on "Service Credentials" then on "New Credential" and finally click "Add" (this will later allow OpenWhisk to connect to that DB instance)
 
 #Creating the action
 
