@@ -48,4 +48,12 @@ function main(params) {
 
 2. Scroll down and choose "Watson Translator" and then choose "translator" under "Select an Action in this Package"
 
-3. Click on the Green "New Binding" on the bottom left, provide a name for the binding and select the instance of Watson Translator you created earlier 
+3. Click on the Green "New Binding" on the bottom left, provide a name for the binding and select the instance of Watson Translator you created earlier
+
+4. Click on "Add to Sequence" and "This Looks Good"
+
+5. Finally click on "Save Action Sequence" (you can change the sequence name if you like) to finish creating the sequence
+
+#Testing the whole flow
+
+1. TODO
