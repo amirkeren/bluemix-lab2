@@ -86,7 +86,7 @@ function main(params) {
 
 4. Click on "Save Configuration" and "Next" (note that the new flow now includes the trigger as well)
 
-5. Finally, click on the "This Looks Good" button and "Save Rule" (you can change the rule name if you like)
+5. Finally, click on the "This Looks Good" button and "Save Rule" (you can change the rule name if you like) and "Done"
 
 # Testing the whole flow
 
