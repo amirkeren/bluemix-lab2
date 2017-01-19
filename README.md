@@ -59,7 +59,7 @@ Finally, click on "Run with this Value" and you should see the translated *Bonjo
 
 3. Provide a name for the trigger and proceed to select the instance of Cloudant you created earlier (note that it selected the "phrases" dbname by default since that is the only one available)
 
-4. Click on "Save Configuration" and "Next"
+4. Click on "Save Configuration" and "Next" (note that the new flow now includes the trigger as well)
 
 5. Finally, click on the "This Looks Good" button and "Save Rule" (you can change the rule name if you like)
 
