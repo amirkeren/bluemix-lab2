@@ -10,7 +10,7 @@
 
 4. Click on the "Create" button to add the new service
 
-# Creating the action
+# Creating the mediating actions
 
 1. Go to the [OpenWhisk editor](https://console.ng.bluemix.net/openwhisk/editor) and create a new action (use the default settings) with any name of your choosing
 
@@ -25,6 +25,14 @@ function main(params) {
 ```
 
 Note that the changes are auto-saved but not live. In order to publish them you will need to click the "Make it Live" button on the bottom right
+
+1. Create yet another new action, same as before and replace the main function with the one below - 
+
+```
+function main(params) {
+	return { doc: { _id: params.payload } };
+}
+```
 
 # Creating the sequence
 
