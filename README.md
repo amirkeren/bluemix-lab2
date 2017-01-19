@@ -45,7 +45,7 @@ Note that the changes are auto-saved but not live. In order to publish them you 
 }
 ```
 
-3. Finally, click on "Run with this Value" and you should see the translated *Bonjour* response
+Finally, click on "Run with this Value" and you should see the translated *Bonjour* response
 
 # Creating the trigger
 
