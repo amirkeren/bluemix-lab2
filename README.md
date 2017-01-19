@@ -23,7 +23,7 @@ Note that the changes are auto-saved but not live. In order to publish them you 
 
 # Creating the sequence
 
-1. Click on the action you created earlier and then click on "Link into a Sequence"
+1. Next, click on "Link into a Sequence"
 
 2. Scroll down and choose "Watson Translator" and then choose "translator" under "Select an Action in this Package"
 
