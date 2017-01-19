@@ -10,7 +10,7 @@
 
 4. Click on the "Create" button to add the new service
 
-# Creating the translation helper action
+# Creating the translation mediator action
 
 1. Go to the [OpenWhisk editor](https://console.ng.bluemix.net/openwhisk/editor) and create a new action (use the default settings) with any name of your choosing
 
@@ -52,7 +52,7 @@ Note that the changes are auto-saved but not live. In order to publish them you 
 
 Finally, click on "Run with this Value" and you should see the translated *Bonjour* response
 
-# Adding the DB insertion helper action
+# Adding the DB insertion mediator action
 
 1. Create yet another new action, same as before and replace the main function with the one below - 
 
