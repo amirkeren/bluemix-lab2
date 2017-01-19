@@ -29,7 +29,7 @@ Note that the changes are auto-saved but not live. In order to publish them you 
 
 3. Select the Blue "Language Translator" binding on the bottom left
 
-4. Click on "Add to Sequence" and "This Looks Good"
+4. Click on "Add to Sequence" (note the flow of the sequence) and then click on "This Looks Good" to confirm
 
 5. Finally click on "Save Action Sequence" (you can change the sequence name if you like) to finish creating the sequence
 
