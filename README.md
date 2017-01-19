@@ -35,7 +35,7 @@ Note that the changes are auto-saved but not live. In order to publish them you 
 
 # Seeing it in action
 
-1. Select the sequence you just created and click on "Run this Sequence"
+1. Select the sequence you just created uner "My Sequences" and click on "Run this Sequence"
 
 2. Provide the following JSON input -
 
