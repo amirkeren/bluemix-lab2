@@ -47,7 +47,7 @@ function main(params) {
 }
 ```
 
-3. Finally, click on "Run with this Value" and you should see the translated __Bonjour__ response
+3. Finally, click on "Run with this Value" and you should see the translated *Bonjour* response
 
 #Creating the trigger
 
