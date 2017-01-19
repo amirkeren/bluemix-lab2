@@ -24,7 +24,7 @@ function main(params) {
 
 2. Choose "Cloudant Changes" and then click on the Green "New Trigger"
 
-3. Provide a name for the trigger and proceed to select the instance of the Cloudant you created earlier (note that it selected the "phrases" dbname by default since that is the only one available)
+3. Provide a name for the trigger and proceed to select the instance of Cloudant you created earlier (note that it selected the "phrases" dbname by default since that is the only one available)
 
 4. Click on "Save Configuration" and "Next"
 
@@ -42,10 +42,10 @@ function main(params) {
 
 1. Go to the creation page of Watson Language Translator service using [this](https://console.ng.bluemix.net/catalog/services/language-translator) link or search for "translator" in the Bluemix catalog 
 
-2. After creating the service, click on "Service Credentials" and then on "View Credentials"
-
-3. Copy the username and password (we will use them in the next steps)
-
 #Creating the sequence
 
-1. TODO
+1. Click on the action you created earlier and then click on "Link into a Sequence"
+
+2. Scroll down and choose "Watson Translator" and then choose "translator" under "Select an Action in this Package"
+
+3. Click on the Green "New Binding" on the bottom left, provide a name for the binding and select the instance of Watson Translator you created earlier 
