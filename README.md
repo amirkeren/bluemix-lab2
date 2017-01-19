@@ -38,6 +38,14 @@ function main(params) {
 
 3. Refresh the Activity Log and you should see the action was triggered due to the change in the "phrases" DB
 
+#Adding Watson into the mix
+
+1. Go to the creation page of Watson Language Translator service using [this](https://console.ng.bluemix.net/catalog/services/language-translator) link or search for "translator" in the Bluemix catalog 
+
+2. After creating the service, click on "Service Credentials" and then on "View Credentials"
+
+3. Copy the username and password (we will use them in the next steps)
+
 #Creating the sequence
 
 1. TODO
