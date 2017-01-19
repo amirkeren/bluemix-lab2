@@ -22,7 +22,7 @@ function main(params) {
 
 1. Select the action you created in the previous step on the left and then click on "Automate this Action"
 
-2. Choose "Cloudant Changes" and then click on the green "New Trigger"
+2. Choose "Cloudant Changes" and then click on the Green "New Trigger"
 
 3. Provide a name for the trigger and proceed to select the instance of the Cloudant you created earlier (note that it selected the "students" dbname by default since that is the only one available)
 
