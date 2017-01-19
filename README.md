@@ -47,7 +47,7 @@ function main(params) {
 
 #Creating the trigger
 
-1. Select the sequence you created in the previous step on the left and then click on "Automate this Action"
+1. Select the sequence you created in the previous step and then click on "Automate this Action"
 
 2. Choose "Cloudant Changes" and then click on the Green "New Trigger"
 
