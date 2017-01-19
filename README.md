@@ -33,7 +33,7 @@ function main(params) {
 
 # Seeing it in action
 
-1. Select the sequence you created earlier and click on "Run this Sequence"
+1. Select the sequence you just created and click on "Run this Sequence"
 
 2. Provide the following JSON input -
 
@@ -45,7 +45,7 @@ function main(params) {
 
 3. Finally, click on "Run with this Value" and you should see the translated *Bonjour* response
 
-#Creating the trigger
+# Creating the trigger
 
 1. Select the sequence you created in the previous step and then click on "Automate this Action"
 
