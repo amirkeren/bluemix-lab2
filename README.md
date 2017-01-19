@@ -42,6 +42,8 @@ function main(params) {
 
 1. Go to the creation page of Watson Language Translator service using [this](https://console.ng.bluemix.net/catalog/services/language-translator) link or search for "translator" in the Bluemix catalog 
 
+2. Click on the "Create" button to add the new service
+
 #Creating the sequence
 
 1. Click on the action you created earlier and then click on "Link into a Sequence"
