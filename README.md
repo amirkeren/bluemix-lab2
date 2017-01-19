@@ -62,6 +62,8 @@ function main(params) {
 }
 ```
 
+Make a note of the name you chose for the action, we will need it in the next step
+
 # Extending the sequence
 
 1. Select the sequence you created in the previous step again and then click on "Extend"
