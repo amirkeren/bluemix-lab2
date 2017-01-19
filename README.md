@@ -26,16 +26,6 @@ function main(params) {
 
 Note that the changes are auto-saved but not live. In order to publish them you will need to click the "Make it Live" button on the bottom right
 
-# Creating the DB insertion helper action
-
-1. Create yet another new action, same as before and replace the main function with the one below - 
-
-```
-function main(params) {
-	return { doc: { _id: params.payload } };
-}
-```
-
 # Creating the sequence
 
 1. Next, click on "Link into a Sequence"
@@ -62,9 +52,33 @@ function main(params) {
 
 Finally, click on "Run with this Value" and you should see the translated *Bonjour* response
 
+# Adding the DB insertion helper action
+
+1. Create yet another new action, same as before and replace the main function with the one below - 
+
+```
+function main(params) {
+	return { doc: { _id: params.payload } };
+}
+```
+
+# Extending the sequence
+
+1. Select the sequence you created in the previous step again and then click on "Extend"
+
+2. Select "My Actions" and choose the action you had just created and click "Add to Sequence"
+
+3. Click on "Extend" again, but this time choose "Cloudant"
+
+4. From the many available options, choose "create document" and proceed to add a new binding by clicking the Green "New Binding" button on the bottom left
+
+5. Provide a name for the binding and proceed to select the instance of Cloudant you created earlier while making sure the dbname selected is the "translation" DB
+
+6. To finish, click on "Save Configuration", followed by "Add to Sequence" and then on "Save Your Changes"
+
 # Creating the trigger
 
-1. Select the sequence you created in the previous step again and then click on "Automate"
+1. Click on "Automate"
 
 2. Choose "Cloudant Changes" and then click on the Green "New Trigger"
 
