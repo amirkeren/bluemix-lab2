@@ -19,7 +19,7 @@ function main(params) {
 }
 ```
 
-3. Note that the changes are auto-saved but in order to publish them you will need to click the "Make it Live" button on the bottom right
+Note that the changes are auto-saved but not live. In order to publish them you will need to click the "Make it Live" button on the bottom right
 
 # Creating the sequence
 
