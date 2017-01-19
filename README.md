@@ -19,6 +19,8 @@ function main(params) {
 }
 ```
 
+3. Note that the changes are auto-saved but in order to publish them you will need to click the "Make it Live" button on the bottom right
+
 # Creating the sequence
 
 1. Click on the action you created earlier and then click on "Link into a Sequence"
