@@ -97,3 +97,7 @@ Make a note of the name you chose for the action, we will need it in the next st
 2. Go to the web applicaton you created in the [previous lab](https://github.com/amirkeren/bluemix-lab1) and proceed to add a new phrase
 
 3. Refresh the Activity Log and you should see the entire sequence was triggered due to the change in the "phrases" DB and the translation of the new phrase you added appears as the output
+
+4. Go to the Cloudant instance you created (you can find it in your [dashboard](https://console.ng.bluemix.net/dashboard/services)), select it and click "Launch" on the "Manage" tab
+
+5. Select the "translation" database and you should see the translation of the phrase you entered stored in the database as a new document
