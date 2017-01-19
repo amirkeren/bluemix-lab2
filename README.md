@@ -1,4 +1,4 @@
-# bluemix-lab2
+# OpenWhisk Starter Overview
 
 #Preparation
 
