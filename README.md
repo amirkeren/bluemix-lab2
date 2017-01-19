@@ -14,7 +14,8 @@
 
 ```
 function main(params) {
-	return { phrase_added: params['id'] };
+	//translateTo values can be any one of the supported 62 languages
+	return { payload: params['id'], translateTo: "fr" };
 }
 ```
 
