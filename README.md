@@ -27,7 +27,7 @@ Note that the changes are auto-saved but not live. In order to publish them you 
 
 2. Scroll down and choose "Watson Translator" and then choose "translator" under "Select an Action in this Package"
 
-3. Click on the Green "New Binding" on the bottom left, provide a name for the binding and select the instance of Watson Translator you created earlier
+3. Select the Blue "Language Translator" binding on the bottom left
 
 4. Click on "Add to Sequence" and "This Looks Good"
 
