@@ -14,7 +14,7 @@
 
 ```
 function main(params) {
-	return { student_added: params['id'] };
+	return { phrase_added: params['id'] };
 }
 ```
 
