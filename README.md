@@ -49,7 +49,7 @@ Finally, click on "Run with this Value" and you should see the translated *Bonjo
 
 # Creating the trigger
 
-1. Select the sequence you created in the previous step again and then click on "Automate this Action"
+1. Select the sequence you created in the previous step again and then click on "Automate"
 
 2. Choose "Cloudant Changes" and then click on the Green "New Trigger"
 
