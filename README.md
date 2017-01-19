@@ -72,7 +72,7 @@ function main(params) {
 
 4. From the many available options, choose "create document" and proceed to add a new binding by clicking the Green "New Binding" button on the bottom left
 
-5. Provide a name for the binding and proceed to select the instance of Cloudant you created earlier while making sure the dbname selected is the "translation" DB
+5. Provide a name for the binding and proceed to select the instance of Cloudant you created earlier while making sure the dbname selected is the **"translation"** DB
 
 6. To finish, click on "Save Configuration", followed by "Add to Sequence" and then on "Save Your Changes"
 
@@ -82,12 +82,11 @@ function main(params) {
 
 2. Choose "Cloudant Changes" and then click on the Green "New Trigger"
 
-3. Provide a name for the trigger and proceed to select the instance of Cloudant you created earlier (note that it selected the "phrases" dbname by default since that is the only one available)
+3. Provide a name for the trigger and proceed to select the instance of Cloudant you created earlier while making sure the dbname selected is the **"phrases"** DB
 
 4. Click on "Save Configuration" and "Next" (note that the new flow now includes the trigger as well)
 
 5. Finally, click on the "This Looks Good" button and "Save Rule" (you can change the rule name if you like)
-
 
 # Testing the whole flow
 
