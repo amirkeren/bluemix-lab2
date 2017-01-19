@@ -1,6 +1,6 @@
 # OpenWhisk Starter Overview
 
-#Preparation
+# Preparation
 
 1. Go to your [dashboard](https://console.ng.bluemix.net/dashboard/services) and click on the Cloudant NoSQL DB you created in the [previous lab](https://github.com/amirkeren/bluemix-lab1)
 
@@ -10,7 +10,7 @@
 
 4. Click on the "Create" button to add the new service
 
-#Creating the action
+# Creating the action
 
 1. Go to the [OpenWhisk editor](https://console.ng.bluemix.net/openwhisk/editor) and create a new action (use the default settings) with any name of your choosing
 
@@ -23,7 +23,7 @@ function main(params) {
 }
 ```
 
-#Creating the sequence
+# Creating the sequence
 
 1. Click on the action you created earlier and then click on "Link into a Sequence"
 
@@ -35,7 +35,7 @@ function main(params) {
 
 5. Finally click on "Save Action Sequence" (you can change the sequence name if you like) to finish creating the sequence
 
-#Seeing it in action
+# Seeing it in action
 
 1. Select the sequence you created earlier and click on "Run this Sequence"
 
@@ -62,7 +62,7 @@ function main(params) {
 5. Finally, click on the "This Looks Good" button and "Save Rule" (you can change the rule name if you like)
 
 
-#Testing the whole flow
+# Testing the whole flow
 
 1. Go to the [monitor screen](https://console.ng.bluemix.net/openwhisk/dashboard) and note the Activity Log on the right
 
