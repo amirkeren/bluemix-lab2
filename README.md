@@ -2,9 +2,13 @@
 
 # Preparation
 
-1. Go to the creation page of Watson Language Translator service using [this](https://console.ng.bluemix.net/catalog/services/language-translator) link or search for "translator" in the Bluemix catalog 
+1. Go to your dashboard and click on the Cloudant NoSQL DB you created in the previous lab
 
-2. Click on the "Create" button to add the new service
+2. Click on "Service Credentials" then on "New Credential" and finally click "Add" (this will allow OpenWhisk to connect to that DB instance)
+
+3. Go to the creation page of Watson Language Translator service using [this](https://console.ng.bluemix.net/catalog/services/language-translator) link or search for "translator" in the Bluemix catalog 
+
+4. Click on the "Create" button to add the new service
 
 # Creating the action
 
