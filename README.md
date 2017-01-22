@@ -1,5 +1,7 @@
 # OpenWhisk Starter Overview
 
+The OpenWhisk starter overview demonstrates several of OpenWhisks' capabilities
+
 # Preparation
 
 1. Go to your dashboard and click on the Cloudant NoSQL DB you created in the previous lab
