@@ -2,6 +2,16 @@
 
 The OpenWhisk starter overview demonstrates several of OpenWhisks' capabilities
 
+# Table of contents
+1. [Preparation](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#preparation)
+2. [Creating the translation mediator action](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#creating-the-translation-mediator-action)
+3. [Creating the sequence](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#creating-the-sequence)
+4. [Seeing it in action](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#seeing-it-in-action)
+5. [Adding the DB insertion mediator action](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#adding-the-db-insertion-mediator-action)
+6. [Extending the sequence](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#extending-the-sequence)
+7. [Creating the trigger](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#creating-the-trigger)
+8. [Testing the whole flow](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#testing-the-whole-flow)
+
 # Preparation
 
 1. Go to your dashboard and click on the Cloudant NoSQL DB you created in the previous lab
