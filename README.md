@@ -131,4 +131,4 @@ To finish the flow we will create a trigger to run the sequence. The trigger wil
 
 4. Go to the Cloudant instance you created (you can find it in your [dashboard](https://console.ng.bluemix.net/dashboard/services)), select it and click "Launch" on the "Manage" tab
 
-5. Select the "translation" database and you should see the translation of the phrase you entered stored in the database as a new document
+5. Select "Databases" on the left and the "translation" database, and you should see the translation of the phrase you entered stored in the database as a new document
