@@ -1,6 +1,6 @@
-# OpenWhisk Starter Overview
+# Apache OpenWhisk Starter Overview
 
-The OpenWhisk starter overview demonstrates several of OpenWhisks' capabilities
+The Apahce OpenWhisk starter overview demonstrates several of OpenWhisks' capabilities
 
 # Table of contents
 1. [Preparation](https://github.com/amirkeren/bluemix-lab2/blob/master/README.md#preparation)
