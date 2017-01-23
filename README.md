@@ -59,6 +59,8 @@ We will now create the sequence translator-mediator-action -> watson-translator
 
 # Seeing it in action
 
+We will now test the sequence we created by passing it a phrase test message for translation
+
 1. Select the sequence you just created uner "My Sequences" and click on "Run this Sequence"
 
 2. Provide the following JSON input -
