@@ -18,7 +18,7 @@ The Apahce OpenWhisk starter overview demonstrates several of OpenWhisks' capabi
 
 2. Click on "Service Credentials" then on "New Credential" and finally click "Add" (this will allow OpenWhisk to connect to that DB instance)
 
-3. Go to the creation page of Watson Language Translator service using [this](https://console.ng.bluemix.net/catalog/services/language-translator) link or search for "translator" in the Bluemix catalog 
+3. Go to the creation page of Watson Language Translator service using [this](https://console.ng.bluemix.net/catalog/services/language-translator) link or search for "translator" in the Bluemix catalog (this will be used to perform the actual translations)
 
 4. Click on the "Create" button to add the new service
 
