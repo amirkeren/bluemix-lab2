@@ -51,7 +51,7 @@ We will now create the sequence translator-mediator-action -> watson-translator,
 
 2. Scroll down and choose "Watson Translator" and then choose "translator" under "Select an Action in this Package"
 
-3. Select the Blue "Language Translator" binding on the bottom left
+3. Select the "Language Translator" binding on the bottom left
 
 4. Click on "Add to Sequence" (note the flow of the sequence) and then click on "This Looks Good" to confirm
 
